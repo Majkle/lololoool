@@ -1,0 +1,10 @@
+E:\Škola\PRG\lololoool\lololoool\bin\Debug\lololoool.exe.config
+E:\Škola\PRG\lololoool\lololoool\bin\Debug\lololoool.exe
+E:\Škola\PRG\lololoool\lololoool\bin\Debug\lololoool.pdb
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.csprojAssemblyReference.cache
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.Form1.resources
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.Properties.Resources.resources
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.csproj.GenerateResource.cache
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.csproj.CoreCompileInputs.cache
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.exe
+E:\Škola\PRG\lololoool\lololoool\obj\Debug\lololoool.pdb
